@@ -1,0 +1,3 @@
+Northstar calibration policy
+
+Offsets are in degrees. The review service limit is inclusive: readings whose absolute drift equals the limit are clear. A missing valid calibration is overdue.

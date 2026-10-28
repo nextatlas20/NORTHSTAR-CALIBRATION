@@ -1,0 +1,6 @@
+instrument_id,station,model,baseline_offset,service_limit,display_rank
+NS-104,Arctic Dome,Helios-2,-0.4,0.6,20
+NS-021,Ridge Annex,Orion-M,0.0,0.5,10
+NS-305,Harbor Roof,Zenith-A,1.2,0.3,40
+NS-178,Valley Array,Helios-2,-1.0,0.4,30
+NS-412,Forest Pier,Orion-S,0.3,0.2,50
