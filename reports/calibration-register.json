@@ -1,0 +1,87 @@
+{
+  "review_instant": "2098-11-03T20:00:00Z",
+  "summary": {
+    "instruments": 5,
+    "valid_readings": 9,
+    "clear": 3,
+    "recalibrate": 1,
+    "overdue": 1
+  },
+  "instruments": [
+    {
+      "instrument_id": "NS-021",
+      "station": "Ridge Annex",
+      "model": "Orion-M",
+      "baseline_offset": "0.0",
+      "service_limit": "0.5",
+      "valid_readings": 3,
+      "selected_measured_at": "2098-11-03T18:00:00Z",
+      "selected_observed_offset": "0.1",
+      "selected_technician": "Imani",
+      "selected_run_id": 11,
+      "drift": "0.1",
+      "absolute_drift": "0.1",
+      "status": "CLEAR"
+    },
+    {
+      "instrument_id": "NS-104",
+      "station": "Arctic Dome",
+      "model": "Helios-2",
+      "baseline_offset": "-0.4",
+      "service_limit": "0.6",
+      "valid_readings": 3,
+      "selected_measured_at": "2098-11-03T19:00:00Z",
+      "selected_observed_offset": "-1.0",
+      "selected_technician": "Lena",
+      "selected_run_id": 3,
+      "drift": "-0.6",
+      "absolute_drift": "0.6",
+      "status": "CLEAR"
+    },
+    {
+      "instrument_id": "NS-178",
+      "station": "Valley Array",
+      "model": "Helios-2",
+      "baseline_offset": "-1.0",
+      "service_limit": "0.4",
+      "valid_readings": 2,
+      "selected_measured_at": "2098-11-02T14:30:00Z",
+      "selected_observed_offset": "-0.6",
+      "selected_technician": "Quinn",
+      "selected_run_id": 10,
+      "drift": "0.4",
+      "absolute_drift": "0.4",
+      "status": "CLEAR"
+    },
+    {
+      "instrument_id": "NS-305",
+      "station": "Harbor Roof",
+      "model": "Zenith-A",
+      "baseline_offset": "1.2",
+      "service_limit": "0.3",
+      "valid_readings": 1,
+      "selected_measured_at": "2098-11-03T20:00:00Z",
+      "selected_observed_offset": "1.6",
+      "selected_technician": "Theo",
+      "selected_run_id": 4,
+      "drift": "0.4",
+      "absolute_drift": "0.4",
+      "status": "RECALIBRATE"
+    },
+    {
+      "instrument_id": "NS-412",
+      "station": "Forest Pier",
+      "model": "Orion-S",
+      "baseline_offset": "0.3",
+      "service_limit": "0.2",
+      "valid_readings": 0,
+      "selected_measured_at": "",
+      "selected_observed_offset": "",
+      "selected_technician": "",
+      "selected_run_id": "",
+      "drift": "",
+      "absolute_drift": "",
+      "status": "OVERDUE"
+    }
+  ]
+}
