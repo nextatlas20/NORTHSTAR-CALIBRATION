@@ -1,0 +1,7 @@
+review_instant=2098-11-03T20:00:00Z
+instruments=5
+valid_readings=9
+clear=3
+recalibrate=1
+overdue=1
+action_instruments=2
